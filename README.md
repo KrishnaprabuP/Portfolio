@@ -11,8 +11,7 @@ The portfolio is built using **HTML, CSS, and JavaScript** and is hosted using *
 
 You can view the live portfolio website here:
 
-(https://krishnaprabup.github.io/portfolio/)
-
+(https://krishnaprabup.github.io/Portfolio/)
 ---
 
 ## 📂 Project Structure
